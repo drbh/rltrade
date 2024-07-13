@@ -18,6 +18,10 @@ Run it without training
 python train.py
 ```
 
+Example of trades
+![rltrade1](https://github.com/user-attachments/assets/f1eea003-017f-4e18-807f-9b8d7e63b81f)
+
+
 ## are we rich yet?
 
 nope not yet, this is 100% just a research project and do not recommend using this for any real world purposes. This is simply a toy example outlining how market data can be used to train a model to make buy/sell decisions.
