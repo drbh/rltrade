@@ -1,0 +1,4 @@
+bak
+.venv
+__pycache__
+*.safetensors
